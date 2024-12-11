@@ -1,0 +1,9 @@
+{
+    "workbench.editor.enablePreview": false,
+    "editor.minimap.enabled": true,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.wordWrap": "off",
+    "diffEditor.wordWrap": "off",
+    "editor.wrappingColumn": -1,
+    "editor.largeFileOptimizations": false,
+}
